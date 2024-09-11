@@ -1,5 +1,4 @@
 
-```md
 # KitchenOrders
 
 KitchenOrders é um microserviço de pedidos de cozinha desenvolvido com **Spring Boot** e **Spring WebFlux**, utilizando **Java 22**. Este projeto visa a construção de um sistema escalável e resiliente com integração de **RabbitMQ** para mensageria e persistência no **PostgreSQL**. A aplicação é containerizada utilizando **Docker** e pode ser orquestrada via **Docker Compose** para um ambiente completo com banco de dados e mensageria.
@@ -127,18 +126,4 @@ Para executar os testes:
 mvn test
 ```
 
-## Contribuindo
 
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias, por favor, abra uma *issue* ou envie um *pull request*.
-
-## Licença
-
-Este projeto está licenciado sob os termos da [MIT License](LICENSE).
-
-```
-
-### Instruções para Uso:
-- Esse README inclui uma visão geral do projeto, as tecnologias utilizadas, como rodar a aplicação, endpoints disponíveis e como contribuir.
-- Adapte conforme necessário caso surjam mudanças no código, funcionalidades ou configurações. 
-
-Posso ajustar mais detalhes, se necessário.
