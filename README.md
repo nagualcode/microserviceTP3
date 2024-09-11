@@ -1,4 +1,3 @@
-Aqui está um exemplo de `README.md` para sua aplicação **kitchenorders**:
 
 ```md
 # KitchenOrders
